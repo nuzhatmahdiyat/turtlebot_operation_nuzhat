@@ -88,5 +88,5 @@ ros2 service call /set_direction obstacle_direction_interfaces/srv/SetDirection 
 ---
 
 ## 5. Demo
+https://youtu.be/3aPIJC1wJWM
 
-*(Add a link, GIF, or screenshot of the robot in action here.)*
